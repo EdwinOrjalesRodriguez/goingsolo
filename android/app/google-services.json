@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "987679921546",
+    "project_id": "goingsolo-af8f6",
+    "storage_bucket": "goingsolo-af8f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987679921546:android:09d86676725760162d2473",
+        "android_client_info": {
+          "package_name": "com.edwinorjales.going_solo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987679921546-1jof0317505usquik1rj4csfhvfm6gf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkFHA41vEd5JmJE2vWGib8qDMkwOloYzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987679921546-1jof0317505usquik1rj4csfhvfm6gf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
